@@ -4,11 +4,10 @@
 
 <h2> Interests </h2>
 
-<li> Exploratory Data Analysis with Advanced Dashboard Visualizations </li>
-<li> Machine Learning and Artificial Intelligence </li>
-<li> Computer Vision with Visual Related Works </li>
-<li> Research and Development with Academic Report Writing </li>
-</p>
+<p> Exploratory Data Analysis with Advanced Dashboard Visualizations </p>
+<p> Machine Learning and Artificial Intelligence </p>
+<p> Computer Vision with Visual Related Works </p>
+<p> Research and Development with Academic Report Writing </p>
 
 <h2> Socials Media Contact </h2>
 
