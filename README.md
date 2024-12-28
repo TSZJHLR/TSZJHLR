@@ -6,13 +6,13 @@
 
 <p> Exploratory Data Analysis with Advanced Dashboard Visualizations </p>
 <p> Machine Learning and Artificial Intelligence </p>
-<p> Computer Vision with Visual Related Works </p>
+<p> Computer Vision Related Works </p>
 <p> Research and Development with Academic Report Writing </p>
 
 <h2> Socials Media Contact </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ratnatuladharsujal@gmail.com) &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)](#) &nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=101010)](https://www.youtube.com/@sujalratnatuladhar2129) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sujal-ratna-tuladhar/) &nbsp;
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=fff&labelColor=101010)](https://myanimelist.net/profile/T_SZJHL_R) &nbsp;
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](#) &nbsp;
