@@ -1,13 +1,27 @@
 <div align="center">
 
-<h2> Sujal Ratna Tuladhar </h2>
+<h2> Profile </h2>
 
 <h2> Interests </h2>
 
-<p> Exploratory Data Analysis with Advanced Dashboard Visualizations </p>
-<p> Machine Learning and Artificial Intelligence </p>
-<p> Computer Vision Related Works </p>
-<p> Research and Development with Academic Report Writing </p>
+<table>
+   <thead>
+      <tr>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td> Exploratory Data Analysis </td>
+         <td> Machine Learning and Artificial Intelligence</td>
+         <td> Research and Development </td>
+     </tr>
+     <tr>
+         <td> Advanced Dashboard Visualizations  </td>
+         <td> Computer Vision Related Works </td>
+          <td> Academic Report Writing  </td>
+      </tr>
+   </tbody>
+</table>
 
 <h2> Socials Media Contact </h2>
 
