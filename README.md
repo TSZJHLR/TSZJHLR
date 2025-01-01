@@ -100,7 +100,7 @@
 <h2> Statistics </h2>
 
 <a href="http://www.github.com/TSZJHLR">
-<img src="https://github-readme-stats.vercel.app/api?username=TSZJHLR&
+<img src="https://github-readme-stats.vercel.app/api?username=tszjhlr&
 show_icons=true&
 hide=&
 count_private=true&
@@ -146,7 +146,7 @@ alt="Commits Graph" />
 -->
 
 <a href="https://github.com/TSZJHLR" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSZJHLR&
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tszjhlr&
 langs_count=10&
 title_color=0891b2&
 text_color=ffffff&
