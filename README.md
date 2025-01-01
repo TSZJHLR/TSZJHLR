@@ -99,7 +99,7 @@
 
 <h2> Statistics </h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tszhlr&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tszjhlr&hide_progress=true)
 ![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show_icons=true,contribs,prs&theme=github_dark)
 
 </div>
