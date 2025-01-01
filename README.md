@@ -147,10 +147,8 @@ alt="Commits Graph" />
 
 ![](https://github-readme-stats.vercel.app/api?username=TSZJHLR&hide=contribs,prs)
 ![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
--->
+![](https://github-readme-stats.vercel.app/api?username=TSZJHLR&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show_icons=true&theme=radical)
 
 <a href="https://github.com/TSZJHLR" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tszjhlr&
