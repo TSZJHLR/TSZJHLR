@@ -99,68 +99,9 @@
 
 <h2> Statistics </h2>
 
-<a href="http://www.github.com/TSZJHLR">
-<img src="https://github-readme-stats.vercel.app/api?username=tszjhlr&
-show_icons=true&
-hide=&
-count_private=true&
-title_color=0891b2&
-text_color=ffffff&
-icon_color=0891b2&
-bg_color=1c1917&
-hide_border=true&
-show_icons=true"
-alt="TSZJHLR's GitHub stats" />
-</a>
-
-<!--
-<a href="http://www.github.com/TSZJHLR">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TSZJHLR&
-hide_border=true&
-stroke=FFFFFF&
-background=1C1917&
-ring=0891B2&
-fire=0891B2&
-currStreakNum=FFFFFF&
-currStreakLabel=0891B2&
-sideNums=FFFFFF&
-sideLabels=FFFFFF&
-dates=FFFFFF" 
-alt="Streak" />
-</a>
--->
-
-<!--
-<a href="http://www.github.com/aTSZJHLR">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TSZJHLR&
-bg_color=1c1917&
-color=ffffff&
-line=0891b2&
-point=ffffff&
-area_color=1c1917&
-area=true&
-hide_border=true&
-custom_title=GitHub%20Commits%20Graph"
-alt="Commits Graph" />
-</a>
--->
-
 ![](https://github-readme-stats.vercel.app/api?username=TSZJHLR&hide=contribs,prs)
 ![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![](https://github-readme-stats.vercel.app/api?username=TSZJHLR&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show_icons=true&theme=radical)
-
-<a href="https://github.com/TSZJHLR" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tszjhlr&
-langs_count=10&
-title_color=0891b2&
-text_color=ffffff&
-icon_color=0891b2&
-bg_color=1c1917&
-hide_border=true&
-locale=en&
-custom_title=Top%20%Languages" 
-alt="Top Languages" />
-</a>
 
 </div>
