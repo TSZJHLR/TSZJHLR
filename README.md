@@ -99,9 +99,6 @@
 
 <h2> Statistics </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=TSZJHLR&hide=contribs,prs)
-![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![](https://github-readme-stats.vercel.app/api?username=TSZJHLR&show_icons=true)
-![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show_icons=true,contribs,prs&theme=cobalt)
 
 </div>
