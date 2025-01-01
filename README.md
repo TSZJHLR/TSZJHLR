@@ -97,11 +97,8 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)](#)
 -->
 
-<!--
 <h2> Statistics </h2>
--->
 
-<!--
 <a href="http://www.github.com/TSZJHLR">
 <img src="https://github-readme-stats.vercel.app/api?username=TSZJHLR&
 show_icons=true&
@@ -115,7 +112,6 @@ hide_border=true&
 show_icons=true"
 alt="TSZJHLR's GitHub stats" />
 </a>
--->
 
 <!--
 <a href="http://www.github.com/TSZJHLR">
@@ -149,7 +145,6 @@ alt="Commits Graph" />
 </a>
 -->
 
-<!--
 <a href="https://github.com/TSZJHLR" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSZJHLR&
 langs_count=10&
@@ -162,6 +157,5 @@ locale=en&
 custom_title=Top%20%Languages" 
 alt="Top Languages" />
 </a>
--->
 
 </div>
