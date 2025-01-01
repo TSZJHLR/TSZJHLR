@@ -99,7 +99,11 @@
 
 <h2> Statistics </h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tszjhlr&hide_progress=true)
-![](https://github-readme-stats.vercel.app/api?username=tszjhlr&show_icons=true,contribs,prs&theme=github_dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tszjhlr&show_icons=true,contribs,prs&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tszjhlr&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 </div>
